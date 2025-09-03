@@ -1,0 +1,32 @@
+This project is a simple HTML/CSS/JS template for a pop-up store website.
+It uses placeholder content that you can freely change to your needs.
+Features
+○ Mobile-friendly design (Bootstrap 5)
+○ Carousel header
+○ Cards layout for products
+○ Order section with email link
+○ Editable email destination (via editor.py script)
+○ Cutoff date display
+
+How to Use:
+• Clone or download this repository.
+• Open the index.html file in a browser to preview.
+• Run the editor.py script to change the email destination and cutoff date.
+• Requires Python 3 installed.
+	Run;
+	• python editor.py
+	• Follow the prompts to update your email and date.
+
+Requirements
+• Python 3 (for running editor.py)
+• pip package manager (for installing extra modules if needed)
+If you don’t have Python, please look for a tutorial on installing it for your operating system.
+• text editor (you could notepad but I would recomend sublime text or vs code for readability)
+License
+This template is free to use and modify as long as you give credit to the author.
+
+Contact:
+
+If you have any questions or feedback, feel free to reach out:
+‣  Email: johndavepdeguzman@gmail.com
+‣  SMS (Philippines): +63 966-433-3120
